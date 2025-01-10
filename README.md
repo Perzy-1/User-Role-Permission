@@ -35,6 +35,7 @@ Key Features:
 
 Setup Instructions:
  1. Clone the repository.
- 2. Set up the Laravel backend by installing dependencies with composer install, configuring .env, and running php artisan migrate.
+ 2. Set up the Laravel backend by installing dependencies with composer install, configuring .env, and running php artisan migrate 
+"php artisan migrate --seed".
  3. Set up the Vue.js frontend by installing dependencies with npm install, and adjusting API endpoints if necessary.
  4. Run both the frontend and backend servers locally.
